@@ -5,4 +5,6 @@ public class HelloWorld {
 	{
 		System.out.println("Hello, World!");
 	}
+	int x = 10000000000000000000000;
+
 }
